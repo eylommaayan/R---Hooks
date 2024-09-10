@@ -1,4 +1,4 @@
-import Starter from "./Hooks/1-useState/starter/03-useState-array"
+import Starter from "./Hooks/1-useState/starter/04-useState-object";
 
 function App() {
   return (
