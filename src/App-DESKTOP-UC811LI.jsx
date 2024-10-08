@@ -1,4 +1,4 @@
-import Starter from "./Hooks/2-useEffect/04-fetch-data";
+import Starter from "./Hooks/1-useState/starter/05-useState-gotcha";
 
 function App() {
   return (
@@ -9,4 +9,4 @@ function App() {
   );
 }
 
-export default App;``
+export default App;
